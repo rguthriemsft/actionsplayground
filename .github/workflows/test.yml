@@ -38,4 +38,5 @@ jobs:
       - name: test
         run: |
           which terraform
+          terraform version
  
